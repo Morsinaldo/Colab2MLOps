@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-04-28T20:42:56.204559",
+    "startedAt": "2022-04-28T20:42:50.808335",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "/Users/Morsinaldo/opt/anaconda3/envs/colab2deploy/bin/uvicorn",
+    "git": {
+        "remote": "https://github.com/Morsinaldo/Colab2MLOps.git",
+        "commit": "b8323f5e6a311f48f2a31a6e6d6dc2c5af8687d0"
+    },
+    "email": "morsinaldo.js@outlook.com",
+    "root": "/Users/Morsinaldo/Desktop/Colab2MLOps",
+    "host": "MacBook-Pro-de-Morsinaldo.local",
+    "username": "Morsinaldo",
+    "executable": "/Users/Morsinaldo/opt/anaconda3/envs/colab2deploy/bin/python"
+}
